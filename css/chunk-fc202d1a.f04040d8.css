@@ -1,0 +1,1 @@
+.contact{min-height:100vh;color:purple;-webkit-animation-duration:2s;animation-duration:2s;-webkit-animation-name:slide;animation-name:slide}@-webkit-keyframes slide{0%{margin-top:100%;width:300%}to{margin-bottom:0;width:100%}}@keyframes slide{0%{margin-top:100%;width:300%}to{margin-bottom:0;width:100%}}a{color:purple}.btn{background-color:purple;color:#fff}
